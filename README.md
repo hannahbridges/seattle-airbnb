@@ -14,7 +14,7 @@ This project aims to use Seattle AirBnB data to understand what it means to be a
 seattle-airbnb-project.ipynb includes all the code produced during this analysis
 
 ## Results
-The findings of this analysis are described in a blogpost [here](https://www.kaggle.com/datasets/airbnb/seattle?resource=download).  
+The findings of this analysis are described in a blogpost [here](https://medium.com/@hannahbridges1/airbnb-superhost-status-is-it-more-than-a-shiny-badge-72694ccb4a05).  
 
 ## Licensing, Authors, Acknowledgements, etc.
 
